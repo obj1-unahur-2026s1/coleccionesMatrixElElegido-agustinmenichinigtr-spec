@@ -1,0 +1,5 @@
+object nave {
+
+var pasajeros : []
+
+}
