@@ -1,5 +1,9 @@
+import actores.*
+
 object nave {
 
-var pasajeros : []
+method pasajeros : [Neo, Morfeo, Trinity]
+
+
 
 }
